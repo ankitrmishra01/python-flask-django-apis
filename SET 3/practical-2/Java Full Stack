@@ -1,0 +1,192 @@
+Java Full Stack
+	 Core Java  3 months
+	 	
+	 	Java Tutorial  3hrs/days(6 days in weak)
+
+	 	History
+	 	What is Java
+		History of Java
+		Features of Java
+		C++ vs Java
+		Hello Java Program
+		Program Internal
+		How to set path?
+		JDK, JRE and JVM
+		JVM: Java Virtual Machine
+		Java Variables
+		Java Data Types
+		Unicode System
+		Operators
+		Keywords
+
+Java Object Class
+	Java OOPs Concepts
+		Naming Convention
+		Object and Class
+		Method
+		Constructor
+		static keyword
+		this keyword
+
+	Java Inheritance
+		Inheritance(IS-A)
+		Aggregation(HAS-A)
+		Java Polymorphism
+		Method Overloading
+		Method Overriding
+		Covariant Return Type
+		super keyword
+		Instance Initializer block
+		final keyword
+		Runtime Polymorphism
+		Dynamic Binding
+		instanceof operator
+	Java Abstraction
+		Abstract class
+		Interface
+		Abstract vs Interface
+	Java Encapsulation
+	Package
+	Access Modifiers
+	Encapsulation
+	Java Array
+		Java Array
+	Java OOPs Misc
+	Object class
+	Object Cloning
+	Math class
+	Wrapper Class
+	Java Recursion
+	Call By Value
+	strictfp keyword
+	javadoc tool
+	Command Line Arg
+	Object vs Class
+	Overloading vs Overriding
+
+Java String
+	What is String
+	Immutable String
+	String Comparison
+	String Concatenation
+	Substring
+	Methods of String class
+	StringBuffer class
+	StringBuilder class
+	String vs StringBuffer
+	StringBuffer vs Builder
+	Creating Immutable class
+	toString method
+	StringTokenizer class
+	Java String FAQs
+	String Handling quiz-1
+
+Java String Methods
+	String charAt()
+	String compareTo()
+	String concat()
+	String contains()
+	String endsWith()
+	String equals()
+	equalsIgnoreCase()
+	String format()
+	String getBytes()
+	String getChars()
+	String indexOf()
+	String intern()
+	String isEmpty()
+	String join()
+	String lastIndexOf()
+	String length()
+	String replace()
+	String replaceAll()
+	String split()
+	String startsWith()
+	String substring()
+	String toCharArray()
+	String toLowerCase()
+	String toUpperCase()
+	String trim()
+	String valueOf()
+
+Exception Handling
+	Java Exceptions
+	Java Try-catch block
+	Java Multiple Catch Block
+	Java Nested try
+	Java Finally Block
+	Java Throw Keyword
+	Java Exception Propagation
+	Java Throws Keyword
+	Java Throw vs Throws
+	Final vs Finally vs Finalize
+	Exception Handling with Method Overriding
+	Java Custom Exceptions
+	Exception Hand. quiz-1
+	Exception Hand. quiz-2
+	Exception Hand. quiz-3
+
+Java Inner classes
+	Java Inner Class
+	What is inner class
+	Member Inner class
+	Anonymous Inner class
+	Local Inner class
+	static nested class
+	Nested Interface
+Java Multithreading
+
+	What is Multithreading
+	Life Cycle of a Thread
+	How to Create Thread
+	Thread Scheduler
+	Sleeping a thread
+	Start a thread twice
+	Calling run() method
+	Joining a thread
+	Naming a thread
+	Thread Priority
+	Daemon Thread
+	Thread Pool
+	Thread Group
+	ShutdownHook
+	Performing multiple task
+	Garbage Collection
+	Runtime class
+	Multithreading quiz-1
+	Multithreading quiz-2
+	Java Synchronization
+	Synchronization in java
+	synchronized block
+	static synchronization
+	Deadlock in Java
+	Inter-thread Comm
+	Interrupting Thread
+	Reentrant Monitor
+
+Java I/O
+Java Networking
+Java AWT
+Java Swing
+JavaFX
+Java Applet
+Java Reflection
+Java Date
+Java Conversion
+Java Collection
+Java JDBC
+Java New Features
+RMI
+Internationalization
+Interview Questions
+JavaTpoint
+	 Advance Java
+	 FramWork
+	 	Spring
+	 	Hibernate
+	 	Spring Boot
+Deployement of Application(DevOps tool)
+	Deployment on AWS
+
+
+After completeion of course Student have the end to end solution of Organiztion
